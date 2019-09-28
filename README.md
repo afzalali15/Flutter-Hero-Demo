@@ -1,6 +1,8 @@
-# hero_demo
+# Flutter Hero Demo
 
-A new Flutter application.
+Hero animation with Flutter application and Avengers :)
+
+![Farmers Market Finder Demo](flutter_hero.gif)
 
 ## Getting Started
 
